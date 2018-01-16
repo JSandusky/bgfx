@@ -25,3 +25,7 @@ Pull request checklist:
    or bug fixed.
  - Use [EditorConfig](http://editorconfig.org/) in your editor of choice to
    apply the same editor settings used by bgfx project.
+
+Make a junk edit
+
+Make another junk edit.
